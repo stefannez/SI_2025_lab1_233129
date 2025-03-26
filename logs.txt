@@ -1,0 +1,16 @@
+*   5a7305f Implement countTasksPerCategory
+|\  
+| * c598506 Implement countTasksPerCategory
+* | 0966051 Implement countTasksPerCategory
+* |   91c7f1d Merge pull request #11 from stefannez/4-sort-tasks-by-priority
+|\ \  
+| * | e3b657f Implement sortTasksByPriority
+| |/  
+* |   a7ff1d9 Merge pull request #10 from stefannez/2-find-all-completed-tasks
+|\ \  
+| |/  
+|/|   
+| * 2bd98c4 Implement getCompletedTasks
+|/  
+* 0e426b9 Add starter code
+* a47df4e Initial commit

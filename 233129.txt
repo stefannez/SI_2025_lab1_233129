@@ -1,0 +1,20 @@
+Softversko inzenerstvo - vtor i tret del
+
+git fetch origin
+git checkout 2-find-all-completed-tasks
+git add SI2025Lab1Main.java
+git commit -m "Implement getCompletedTasks"
+git push -u origin 2-find-all-completed-tasks
+git checkout 4-sort-tasks-by-priority
+git add SI2025Lab1Main.java
+git commit -m "Implement sortTasksByPriority"
+git push -u origin 4-sort-tasks-by-priority
+git checkout 7-count-tasks-per-category
+git add SI2025Lab1Main.java
+git commit -m "Implement countTasksByPriority"
+git merge 7-count-tasks-per-category
+
+(tuka ne sakase prvo push zatoa so ne ni bese sinhroniziran so master na github pa prvo morase pull pa potoa push za 7miot task)
+git pull origin master --rebase
+git push origin master
+
